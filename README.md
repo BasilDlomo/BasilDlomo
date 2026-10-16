@@ -24,6 +24,7 @@ Live platform: https://curdux.klarivon.uk/
 ### Vuna Exchange — B2B Marketplace Platform
 
 A UK–South Africa BPO/CX marketplace. My work spans product architecture, provider onboarding and matching workflows, database-backed services, public research forms and business-system design.
+
 Live platform: https://www.vunaexchange.com/
 
 ## How I Build
