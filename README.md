@@ -12,16 +12,18 @@ My background combines more than 20 years of hands-on IT and operational technol
 
 A platform for transforming expert-owned knowledge into structured, interactive digital experiences. My work includes product architecture, React/TypeScript application development, Supabase/PostgreSQL data models, governed content retrieval and LLM integration.
 
-**Live:** https://klarivon.com/
+Live platform: https://klarivon.com/
 
 ### Curdux — Field Engineer Support & Operational Intelligence
 
-A field-engineer support platform built from first-hand operational experience. Curdux brings technical knowledge, job workflows and support processes into a structured working environment designed around how engineers actually operate on-site.
+A field-engineer support platform built from first-hand operational experience. Curdux brings technical knowledge, job workflows and support processes into a structured working environment designed around how engineers actually operate on-site. 
+Live platform: https://curdux.klarivon.uk/
 **Public code sample:** [View React & TypeScript code](https://github.com/BasilDlomo/curdux-code-sample)
 
 ### Vuna Exchange — B2B Marketplace Platform
 
 A UK–South Africa BPO/CX marketplace. My work spans product architecture, provider onboarding and matching workflows, database-backed services, public research forms and business-system design.
+Live platform: https://www.vunaexchange.com/
 
 ## How I Build
 
