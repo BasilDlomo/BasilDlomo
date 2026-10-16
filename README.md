@@ -16,7 +16,8 @@ Live platform: https://klarivon.com/
 
 ### Curdux — Field Engineer Support & Operational Intelligence
 
-A field-engineer support platform built from first-hand operational experience. Curdux brings technical knowledge, job workflows and support processes into a structured working environment designed around how engineers actually operate on-site. 
+A field-engineer support platform built from first-hand operational experience. Curdux brings technical knowledge, job workflows and support processes into a structured working environment designed around how engineers actually operate on-site.
+
 Live platform: https://curdux.klarivon.uk/
 **Public code sample:** [View React & TypeScript code](https://github.com/BasilDlomo/curdux-code-sample)
 
